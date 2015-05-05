@@ -19,3 +19,9 @@ NOTE: Make sure your system has the latest Java version installed and the enviro
 6. Open another command prompt screen and navigate inside src folder and then type java Client to run client program.
 7. This will start the program
 
+In order to learn how to create GUI using Java Swings and to learn the basics of the casino games, I referred a few links. They are listed as below:
+http://www.javacodegeeks.com/2014/08/programming-a-simple-slot-machine-game-using-java.html
+http://www.dreamincode.net/forums/topic/116864-how-to-make-a-poker-game-in-java/
+http://www.javabeginner.com/java-swing-tutorial/
+http://www.pagat.com/banking/blackjack.html
+http://www.hitorstand.net/strategy.php
