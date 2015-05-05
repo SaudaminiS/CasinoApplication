@@ -1,6 +1,6 @@
 # CasinoProject
 Casino Java Application
-=======================
+
 
 This project aims to create a Casino application wherein a user can ener and choose to play one of the three games namely:
 1.  Poker
